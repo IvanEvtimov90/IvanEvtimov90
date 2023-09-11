@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ivan
+- 🌱 I’m currently learning Ruby and React
+- 📫 How to reach me - > tadly90.ivan@gmail.com
